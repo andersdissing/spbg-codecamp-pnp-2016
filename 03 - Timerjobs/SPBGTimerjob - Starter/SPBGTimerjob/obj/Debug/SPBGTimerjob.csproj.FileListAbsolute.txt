@@ -1,0 +1,2 @@
+C:\tfs\Dissings\SPBG\Codecamp_2016-07-16\Hands-on\SPBGTimerjob\SPBGTimerjob\bin\Debug\SPBGTimerjob.exe.config
+C:\tfs\Dissings\SPBG\Codecamp_2016-07-16\Hands-on\SPBGTimerjob - Starter\SPBGTimerjob\bin\Debug\SPBGTimerjob.exe.config
