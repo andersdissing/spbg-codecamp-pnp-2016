@@ -9,8 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PnPBasicOperationsWeb", "Pn
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D2D0F25A-1A12-4E22-A646-CAE765D21400}"
 	ProjectSection(SolutionItems) = preProject
-		HOL Code Snippets Basic Operations.txt = HOL Code Snippets Basic Operations.txt
-		HOL Instructions Basic Operations.txt = HOL Instructions Basic Operations.txt
+		..\HOL Code Snippets Basic Operations.md = ..\HOL Code Snippets Basic Operations.md
+		..\HOL Instructions Basic Operations.md = ..\HOL Instructions Basic Operations.md
 	EndProjectSection
 EndProject
 Global
@@ -32,17 +32,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://rickenberg.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = PnPBasicOperations\\PnPBasicOperations.csproj
-		SccProjectName1 = PnPBasicOperations
-		SccLocalPath1 = PnPBasicOperations
-		SccProjectUniqueName2 = PnPBasicOperationsWeb\\PnPBasicOperationsWeb.csproj
-		SccProjectName2 = PnPBasicOperationsWeb
-		SccLocalPath2 = PnPBasicOperationsWeb
 	EndGlobalSection
 EndGlobal

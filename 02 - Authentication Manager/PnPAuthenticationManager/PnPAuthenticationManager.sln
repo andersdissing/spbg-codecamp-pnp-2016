@@ -7,10 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PnPAuthenticationManager", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C652DA7-6F51-4E04-A5FB-E8BEC4A963F5}"
 	ProjectSection(SolutionItems) = preProject
-		Create-SelfSignedCertificate.ps1 = Create-SelfSignedCertificate.ps1
-		Get-SelfSignedCertificateInformation.ps1 = Get-SelfSignedCertificateInformation.ps1
-		HOL Code Snippets Authentication Manager.txt = HOL Code Snippets Authentication Manager.txt
-		HOL Instructions Authentication Manager.txt = HOL Instructions Authentication Manager.txt
+		..\Create-SelfSignedCertificate.ps1 = ..\Create-SelfSignedCertificate.ps1
+		..\Get-SelfSignedCertificateInformation.ps1 = ..\Get-SelfSignedCertificateInformation.ps1
+		..\HOL Code Snippets Authentication Manager.md = ..\HOL Code Snippets Authentication Manager.md
+		..\HOL Instructions Authentication Manager.md = ..\HOL Instructions Authentication Manager.md
 	EndProjectSection
 EndProject
 Global
@@ -26,14 +26,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://rickenberg.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = PnPAuthenticationManager\\PnPAuthenticationManager.csproj
-		SccProjectName1 = PnPAuthenticationManager
-		SccLocalPath1 = PnPAuthenticationManager
 	EndGlobalSection
 EndGlobal
