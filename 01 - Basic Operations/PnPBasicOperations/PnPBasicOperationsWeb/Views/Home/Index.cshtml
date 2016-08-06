@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@section scripts {
+    <script language="javascript">
+        $(document).ready(function ()
+        {
+            $("#thebutton").on("click", function (e)
+            {
+                e.preventDefault();
+
+                $.ajax(
+                {
+                    // Append query string to the call-back
+                    url: "/Csom/CreateList" + window.location.search,
+                    // Important - disable caching for this get request
+                    cache: false
+                }).done(function () { alert("complete"); });
+            });
+
+            $("#thepnpbutton").on("click", function (e)
+            {
+                e.preventDefault();
+
+                $.ajax(
+                    {
+                        url: "/PnP/CreateList",
+                        // Important - disable caching for this get request
+                        cache: false
+                    }).done(function () { alert("complete"); });
+            });
+        });
+    </script>
+}
+
+<div class="jumbotron">
+    <h2>Demo Buttons</h2>
+    <p class="lead">
+        <b>Basic Operations - </b>learn how to get started updating existing code.
+    </p>
+    <p>
+        <a id="thebutton" href="#" class="btn btn-default btn-large">Execute the Example (CSOM)</a>
+    </p>
+    <p>
+        <a id="thepnpbutton" href="#" class="btn btn-primary btn-large">Execute the Example (PnP)</a>
+    </p>
+</div>

@@ -1,4 +1,4 @@
-﻿using Microsoft.IdentityModel;
+using Microsoft.IdentityModel;
 using Microsoft.IdentityModel.S2S.Protocols.OAuth2;
 using Microsoft.IdentityModel.S2S.Tokens;
 using Microsoft.SharePoint.Client;
@@ -24,7 +24,7 @@ using AudienceUriValidationFailedException = Microsoft.IdentityModel.Tokens.Audi
 using SecurityTokenHandlerConfiguration = Microsoft.IdentityModel.Tokens.SecurityTokenHandlerConfiguration;
 using X509SigningCredentials = Microsoft.IdentityModel.SecurityTokenService.X509SigningCredentials;
 
-namespace $rootnamespace$
+namespace PnPAuthenticationManager
 {
     public static class TokenHelper
     {

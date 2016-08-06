@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Web.Mvc;
 
-namespace $rootnamespace$
+namespace PnPBasicOperationsWeb
 {
     /// <summary>
     /// SharePoint action filter attribute.

@@ -1,4 +1,4 @@
-﻿using Microsoft.IdentityModel.S2S.Protocols.OAuth2;
+using Microsoft.IdentityModel.S2S.Protocols.OAuth2;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.SharePoint.Client;
 using System;
@@ -7,7 +7,7 @@ using System.Security.Principal;
 using System.Web;
 using System.Web.Configuration;
 
-namespace $rootnamespace$
+namespace PnPBasicOperationsWeb
 {
     /// <summary>
     /// Encapsulates all the information from SharePoint.
