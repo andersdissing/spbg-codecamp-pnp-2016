@@ -10,7 +10,7 @@
   - PnP - PowerShell and Provisioning
 
 ## Kom igang:
-- Download github repository.
+- Download github repository. https://github.com/andersdissing/spbg-codecamp-2016-08-16/archive/master.zip
 
 ## Tak til:
 - Mad og drikke bliver sponsoreret af Nsight Aps.
