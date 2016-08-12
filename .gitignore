@@ -6,3 +6,786 @@
 /01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/obj/Debug
 /02 - Authentication Manager/PnPAuthenticationManager/PnPAuthenticationManager/bin/Debug
 /02 - Authentication Manager/PnPAuthenticationManager/PnPAuthenticationManager/obj/Debug
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.pdb
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.csprojResolveAssemblyReference.cache
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.csproj.FileListAbsolute.txt
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hant/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hant/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hant/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hans/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hans/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hans/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/zh-Hans/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/WebGrease.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.Razor.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.Razor.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.Deployment.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.WebPages.Deployment.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Razor.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Razor.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Optimization.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Optimization.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Mvc.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Mvc.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Http.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Http.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Helpers.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Web.Helpers.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Spatial.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Spatial.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Net.Http.Formatting.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/System.Net.Http.Formatting.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ru/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ru/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ru/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ru/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/vbc.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/roslyn/csc.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.pdb
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.dll.config
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/OfficeDevPnP.Core.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.WindowsAzure.Storage.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.WindowsAzure.Storage.pdb
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.WindowsAzure.Storage.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Web.Infrastructure.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Runtime.Windows.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.ProjectServer.Client.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.IdentityModel.Extensions.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.IdentityModel.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.Services.Client.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.Services.Client.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.OData.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.OData.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.Edm.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Data.Edm.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Azure.KeyVault.Core.xml
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Azure.KeyVault.Core.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Microsoft.Azure.ActiveDirectory.GraphClient.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ko/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ko/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ko/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ko/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ja/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ja/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ja/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/ja/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/it/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/it/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/it/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/it/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/fr/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/fr/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/fr/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/fr/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/es/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/es/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/es/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/es/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/de/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/de/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/de/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/de/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Antlr3.Runtime.pdb
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperationsWeb/bin/Antlr3.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/vbc.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/roslyn/csc.exe
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/PnPBasicOperations.pdb
+/01 - Basic Operations/PnPBasicOperations/PnPBasicOperations/bin/Debug/PnPBasicOperations.dll.config
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/WindowsAzure.Storage.7.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/wpa/Microsoft.WindowsAzure.Storage.pdb
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/wpa/Microsoft.WindowsAzure.Storage.dll
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/wp8/Microsoft.WindowsAzure.Storage.pdb
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/wp8/Microsoft.WindowsAzure.Storage.dll
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/win8/Microsoft.WindowsAzure.Storage.pdb
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/win8/Microsoft.WindowsAzure.Storage.dll
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/net40/Microsoft.WindowsAzure.Storage.xml
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/net40/Microsoft.WindowsAzure.Storage.pdb
+/01 - Basic Operations/PnPBasicOperations/packages/WindowsAzure.Storage.7.0.0/lib/net40/Microsoft.WindowsAzure.Storage.dll
+/01 - Basic Operations/PnPBasicOperations/packages/WebGrease.1.5.2/WebGrease.1.5.2.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/WebGrease.1.5.2/tools/WG.exe
+/01 - Basic Operations/PnPBasicOperations/packages/WebGrease.1.5.2/tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/WebGrease.1.5.2/tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/WebGrease.1.5.2/lib/WebGrease.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/System.Spatial.5.6.4.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/zh-Hant/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/zh-Hans/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/System.Spatial.xml
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/System.Spatial.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/ru/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/ko/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/ja/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/it/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/fr/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/es/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/sl4/de/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hant/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hans/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/System.Spatial.xml
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/System.Spatial.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/ru/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/ko/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/ja/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/it/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/fr/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/es/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net45+wp8+win8+wpa/de/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/System.Spatial.xml
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/System.Spatial.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ru/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ko/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ja/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/it/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/fr/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/es/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/de/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/zh-Hant/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/zh-Hans/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/System.Spatial.xml
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/System.Spatial.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/ru/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/ko/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/ja/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/it/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/fr/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/es/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/System.Spatial.5.6.4/lib/net40/de/System.Spatial.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/SharePointPnPCoreOnline.2.5.1606.3/SharePointPnPCoreOnline.2.5.1606.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/SharePointPnPCoreOnline.2.5.1606.3/lib/net45/OfficeDevPnP.Core.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Respond.1.2.0/Respond.1.2.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Respond.1.2.0/content/Scripts/respond.min.js
+/01 - Basic Operations/PnPBasicOperations/packages/Respond.1.2.0/content/Scripts/respond.js
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/Newtonsoft.Json.6.0.8.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/portable-net45+wp80+win8+wpa81+aspnetcore50/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/portable-net45+wp80+win8+wpa81+aspnetcore50/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/netcore45/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/netcore45/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net45/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net45/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net40/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net40/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net35/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net35/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net20/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Newtonsoft.Json.6.0.8/lib/net20/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Modernizr.2.6.2/Tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Modernizr.2.6.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Modernizr.2.6.2/Tools/common.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Modernizr.2.6.2/Modernizr.2.6.2.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Modernizr.2.6.2/Content/Scripts/modernizr-2.6.2.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/Microsoft.SharePointOnline.CSOM.16.1.5326.1200.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.WorkflowServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.UserProfiles.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Taxonomy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Search.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Search.Applications.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Runtime.WindowsPhone.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Runtime.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Publishing.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.SharePoint.Client.DocumentManagement.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.ProjectServer.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.Office.Client.TranslationServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/wpa/Microsoft.Office.Client.Policy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.WorkflowServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.UserProfiles.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Taxonomy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Search.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Search.Applications.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Runtime.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Publishing.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.SharePoint.Client.DocumentManagement.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.ProjectServer.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.Office.Client.TranslationServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/portable-net45+netcore45+wpa81/Microsoft.Office.Client.Policy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.WorkflowServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.UserProfiles.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Taxonomy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Search.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Search.Applications.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Runtime.WindowsStore.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Runtime.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Publishing.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.SharePoint.Client.DocumentManagement.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.ProjectServer.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.Office.Client.TranslationServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/netcore45/Microsoft.Office.Client.Policy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Runtime.Windows.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.ProjectServer.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net45/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.ProjectServer.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/net40-full/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.workmanagement.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.workflowservices.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.userprofiles.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.translation.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.taxonomy.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.search.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.search.apps.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.runtime.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.requestexecutor.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.publishing.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.documentmanagement.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/sp.datetimeutil.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.SharePointOnline.CSOM.16.1.5326.1200/lib/javascript/ps.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/vbc.exe
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/tools/csc.exe
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/ThirdPartyNotices.rtf
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/Microsoft.Net.Compilers.1.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Net.Compilers.1.0.0/build/Microsoft.Net.Compilers.props
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Microsoft.jQuery.Unobtrusive.Validation.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.js
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/Microsoft.Data.Services.Client.5.6.4.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/zh-Hant/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/zh-Hans/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/ru/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/Microsoft.Data.Services.Client.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/Microsoft.Data.Services.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/ko/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/ja/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/it/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/fr/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/es/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/sl4/de/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hant/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hans/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/ru/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.Services.Client.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.Services.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/ko/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/ja/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/it/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/fr/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/es/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/portable-net45+wp8+win8+wpa/de/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/zh-Hant/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/zh-Hans/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/ru/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/Microsoft.Data.Services.Client.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/Microsoft.Data.Services.Client.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/ko/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/ja/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/it/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/fr/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/es/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Services.Client.5.6.4/lib/net40/de/Microsoft.Data.Services.Client.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/Microsoft.Data.OData.5.6.4.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/zh-Hant/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/zh-Hans/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/ru/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/Microsoft.Data.OData.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/Microsoft.Data.OData.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/ko/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/ja/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/it/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/fr/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/es/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/sl4/de/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hant/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hans/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/ru/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.OData.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.OData.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/ko/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/ja/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/it/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/fr/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/es/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net45+wp8+win8+wpa/de/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ru/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Data.OData.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Data.OData.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ko/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ja/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/it/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/fr/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/es/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/de/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/zh-Hant/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/zh-Hans/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/ru/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/Microsoft.Data.OData.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/Microsoft.Data.OData.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/ko/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/ja/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/it/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/fr/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/es/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.OData.5.6.4/lib/net40/de/Microsoft.Data.OData.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/Microsoft.Data.Edm.5.6.4.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/zh-Hant/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/zh-Hans/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/ru/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/Microsoft.Data.Edm.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/Microsoft.Data.Edm.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/ko/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/ja/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/it/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/fr/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/es/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/sl4/de/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hant/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/zh-Hans/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/ru/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.Edm.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/Microsoft.Data.Edm.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/ko/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/ja/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/it/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/fr/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/es/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net45+wp8+win8+wpa/de/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hant/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/zh-Hans/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ru/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Data.Edm.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/Microsoft.Data.Edm.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ko/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/ja/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/it/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/fr/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/es/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/portable-net40+sl5+wp8+win8+wpa/de/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/zh-Hant/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/zh-Hans/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/ru/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/Microsoft.Data.Edm.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/Microsoft.Data.Edm.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/ko/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/ja/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/it/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/fr/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/es/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Data.Edm.5.6.4/lib/net40/de/Microsoft.Data.Edm.resources.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/init.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/build/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.KeyVault.Core.1.0.0/Microsoft.Azure.KeyVault.Core.1.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.KeyVault.Core.1.0.0/lib/portable-net45+wp8+wpa81+win/Microsoft.Azure.KeyVault.Core.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.KeyVault.Core.1.0.0/lib/portable-net45+wp8+wpa81+win/Microsoft.Azure.KeyVault.Core.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.KeyVault.Core.1.0.0/lib/net40/Microsoft.Azure.KeyVault.Core.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.KeyVault.Core.1.0.0/lib/net40/Microsoft.Azure.KeyVault.Core.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.ActiveDirectory.GraphClient.2.1.0/Microsoft.Azure.ActiveDirectory.GraphClient.2.1.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.Azure.ActiveDirectory.GraphClient.2.1.0/lib/portable-net4+sl5+win+wpa+wp8/Microsoft.Azure.ActiveDirectory.GraphClient.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/Microsoft.AspNet.WebPages.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Microsoft.AspNet.WebApi.Core.5.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Core.5.2.3/lib/net45/System.Web.Http.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Core.5.2.3/Content/web.config.transform
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Client.5.2.3/Microsoft.AspNet.WebApi.Client.5.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.WebApi.Client.5.2.3/lib/net45/System.Net.Http.Formatting.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Razor.3.2.3/Microsoft.AspNet.Razor.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Mvc.5.2.3/Microsoft.AspNet.Mvc.5.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Tools/common.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/jQuery.1.10.2.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js
+/01 - Basic Operations/PnPBasicOperations/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.min.js
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.js
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.woff
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.ttf
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.svg
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.eot
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Content/bootstrap.min.css
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Content/bootstrap.css
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.min.css
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.css
+/01 - Basic Operations/PnPBasicOperations/packages/bootstrap.3.0.0/bootstrap.3.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/common.psm1
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/TokenHelper.vb.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/TokenHelper.cs.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/SharePointContext.vb.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/SharePointContext.cs.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/Filters/SharePointContextFilterAttribute.vb.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/Filters/SharePointContextFilterAttribute.cs.pp
+/01 - Basic Operations/PnPBasicOperations/packages/AppForSharePointOnlineWebToolkit.3.1.2/AppForSharePointOnlineWebToolkit.3.1.2.nupkg
+/01 - Basic Operations/PnPBasicOperations/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.pdb
+/01 - Basic Operations/PnPBasicOperations/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations/packages/Antlr.3.4.1.9004/Antlr.3.4.1.9004.nupkg
+/01 - Basic Operations/PnPBasicOperations/.vs/PnPBasicOperations/v14/.suo
+/01 - Basic Operations/PnPBasicOperations/.vs/config/applicationhost.config
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.pdb
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.csprojResolveAssemblyReference.cache
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/PnPBasicOperationsWeb.csproj.FileListAbsolute.txt
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/WebGrease.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.Razor.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.Razor.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.Deployment.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.WebPages.Deployment.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Razor.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Razor.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Optimization.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Optimization.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Mvc.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Mvc.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Helpers.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/System.Web.Helpers.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/vbc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/roslyn/csc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.pdb
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.dll.config
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/PnPBasicOperationsWeb.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.Web.Infrastructure.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.IdentityModel.Extensions.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.IdentityModel.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Antlr3.Runtime.pdb
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperationsWeb/bin/Antlr3.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/vbc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/roslyn/csc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/PnPBasicOperations.pdb
+/01 - Basic Operations/PnPBasicOperations - Starter/PnPBasicOperations/bin/Debug/PnPBasicOperations.dll.config
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/WebGrease.1.5.2/WebGrease.1.5.2.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/WebGrease.1.5.2/tools/WG.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/WebGrease.1.5.2/tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/WebGrease.1.5.2/tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/WebGrease.1.5.2/lib/WebGrease.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Respond.1.2.0/Respond.1.2.0.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Respond.1.2.0/content/Scripts/respond.min.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Respond.1.2.0/content/Scripts/respond.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/Newtonsoft.Json.6.0.4.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/netcore45/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net45/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net40/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net35/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Newtonsoft.Json.6.0.4/lib/net20/Newtonsoft.Json.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Modernizr.2.6.2/Tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Modernizr.2.6.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Modernizr.2.6.2/Tools/common.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Modernizr.2.6.2/Modernizr.2.6.2.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Modernizr.2.6.2/Content/Scripts/modernizr-2.6.2.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.pdb
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Antlr.3.4.1.9004/Antlr.3.4.1.9004.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/.vs/config/applicationhost.config
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/common.psm1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/TokenHelper.vb.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/TokenHelper.cs.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/SharePointContext.vb.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/SharePointContext.cs.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/Filters/SharePointContextFilterAttribute.vb.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Content/Filters/SharePointContextFilterAttribute.cs.pp
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/AppForSharePointOnlineWebToolkit.3.1.2.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/Microsoft.SharePointOnline.CSOM.16.1.3912.1204.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.WorkflowServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.UserProfiles.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Taxonomy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Search.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Search.Applications.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Runtime.WindowsPhone.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Runtime.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Publishing.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.SharePoint.Client.DocumentManagement.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.Office.Client.TranslationServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/wpa/Microsoft.Office.Client.Policy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.WorkflowServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.UserProfiles.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Taxonomy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Search.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Search.Applications.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Runtime.WindowsStore.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Runtime.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Publishing.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.SharePoint.Client.DocumentManagement.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.Office.Client.TranslationServices.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/netcore45/Microsoft.Office.Client.Policy.Portable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net45/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.WorkflowServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.UserProfiles.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.Taxonomy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.Search.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.Search.Applications.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.Runtime.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.Publishing.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.DocumentManagement.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.SharePoint.Client.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.Online.SharePoint.Client.Tenant.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.Office.SharePoint.Tools.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.Office.Client.TranslationServices.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/net40-full/Microsoft.Office.Client.Policy.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.workmanagement.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.workflowservices.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.userprofiles.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.translation.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.taxonomy.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.search.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.search.apps.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.runtime.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.requestexecutor.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.publishing.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.documentmanagement.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.SharePointOnline.CSOM.16.1.3912.1204/lib/javascript/sp.datetimeutil.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe.config
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/VBCSCompiler.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/vbc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/System.Reflection.Metadata.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/System.Collections.Immutable.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.VisualBasic.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CSharp.Core.targets
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.VisualBasic.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.CodeAnalysis.CSharp.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/Microsoft.Build.Tasks.CodeAnalysis.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/tools/csc.exe
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/ThirdPartyNotices.rtf
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/Microsoft.Net.Compilers.1.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.Net.Compilers.1.0.0/build/Microsoft.Net.Compilers.props
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Microsoft.jQuery.Unobtrusive.Validation.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.min.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.3/Content/Scripts/jquery.validate.unobtrusive.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/tools/init.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/content/web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0/build/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/Microsoft.AspNet.WebPages.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Razor.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.WebPages.Deployment.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/lib/net45/System.Web.Helpers.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.WebPages.3.2.3/Content/Web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Razor.3.2.3/Microsoft.AspNet.Razor.3.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Razor.3.2.3/lib/net45/System.Web.Razor.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Mvc.5.2.3/Microsoft.AspNet.Mvc.5.2.3.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.xml
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Mvc.5.2.3/lib/net45/System.Web.Mvc.dll
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.uninstall.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/Microsoft.AspNet.Mvc.5.2.3/Content/Web.config.install.xdt
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.Validation.1.11.1/jQuery.Validation.1.11.1.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.min.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.Validation.1.11.1/Content/Scripts/jquery.validate-vsdoc.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Tools/uninstall.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Tools/install.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Tools/common.ps1
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/jQuery.1.10.2.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.map
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.min.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2-vsdoc.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.min.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Scripts/bootstrap.js
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.woff
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.ttf
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.svg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/fonts/glyphicons-halflings-regular.eot
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Content/bootstrap.min.css
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Content/bootstrap.css
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.min.css
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.css
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/bootstrap.3.0.0/bootstrap.3.0.0.nupkg
+/01 - Basic Operations/PnPBasicOperations - Starter/packages/AppForSharePointOnlineWebToolkit.3.1.2/Tools/uninstall.ps1
