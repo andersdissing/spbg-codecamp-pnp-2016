@@ -5,7 +5,8 @@ Preparations
 3. Select the SharePoint add-in in solution explorer and change the Site URL in property window
 4. Double click the AppManifest.xml file, switch to the Permissions tab and add Scope=Web | Permission=FullControl
 5. Check the check-box 'Allow the app to make app-only calls to SharePoint.'
-6. Deploy the add-in to SharePoint Online with CTRL-F5 (takes about 3 minutes)
+6. Bump up version number
+7. Deploy the add-in to SharePoint Online with CTRL-F5 (takes about 3 minutes)
 
 Plain CSOM example
 ------------------
@@ -27,7 +28,6 @@ PnP example
 
 Note on authencation methods
 ----------------------------
-1. Remove query string parameters from button and run again
-2. Set host filter in Fiddler: SharePoint online URL;localhost:44347
-3. Close browser and go to https://localhost:44347/Csom/CreateList?SPHostUrl=[your SharePoint Online site URL] and login
-4. Point-out: 1. SharePoint context filter requires query string parameters, 2. SharePoint context filter does redirect when needed (and removes custom query string parameters)
+1. Set host filter in Fiddler: SharePoint online URL;localhost:44347
+2. Go to https://localhost:44347/Csom/CreateList?SPHostUrl=[your SharePoint Online site URL]
+3. Point-out: 1. SharePoint context filter requires query string parameters, 2. SharePoint context filter does redirect when needed (and removes custom query string parameters)

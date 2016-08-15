@@ -10,7 +10,7 @@ namespace PnPAuthenticationManager
         static void Main(string[] args)
         {
             ClientContext clientContext = null;
-            var siteUrl = "https://yoursite.onmicrosoft.com";
+            var siteUrl = "https://yoursite.sharepoint.com/subsite";
 
             // SharePoint Online - credentials
             //var username = "spo-user-name";
@@ -32,7 +32,7 @@ namespace PnPAuthenticationManager
             // Azure AD - app only
             //var appId = "azure-ad-web-add-in-client-id";
             //var pfxPassword = GetString("PFX password");
-            //clientContext = new AuthenticationManager().GetAzureADAppOnlyAuthenticatedContext(siteUrl, appId, "sometenant.onmicrosoft.com", "local-path-to-pfx-file", pfxPassword);
+            //clientContext = new AuthenticationManager().GetAzureADAppOnlyAuthenticatedContext(siteUrl, appId, "sometenant.onmicrosoft.com", @"d:\spbg-codecamp-2016-08-16-master\02 - Authentication Manager\PnPCert.pfx", pfxPassword);
 
             var web = clientContext.Web;
             clientContext.Load(web, w => w.Title);
