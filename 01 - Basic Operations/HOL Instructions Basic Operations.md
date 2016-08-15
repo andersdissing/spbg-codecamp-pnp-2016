@@ -22,10 +22,12 @@ PnP example
 2. Replace code for Index view of the Home controller (Views/Home/Index.cshtml - snippet 3)
 4. Right click on Controllers folder, Add, Controller..., MVC5 Controller - Empty, name it 'PnPController'
 5. Replace the code of PnPController with snippet 4
-6. Run the code - CTRL-F5, click the button and check that list was created
+6. Change the URL in PnPController for your SharePoint Online site
+7. Run the code - CTRL-F5, click the button and check that list was created
 
 Note on authencation methods
 ----------------------------
 1. Remove query string parameters from button and run again
-2. Set host filter in Fiddler: rickenberg.sharepoint.com;localhost:44347, kill session and login, show app redirect
-3. Point-out: 1. SharePoint context filter requires query string parameters, 2. SharePoint context filter does redirect when needed (and removes custom query string parameters)
+2. Set host filter in Fiddler: SharePoint online URL;localhost:44347
+3. Close browser and go to https://localhost:44347/Csom/CreateList?SPHostUrl=[your SharePoint Online site URL] and login
+4. Point-out: 1. SharePoint context filter requires query string parameters, 2. SharePoint context filter does redirect when needed (and removes custom query string parameters)

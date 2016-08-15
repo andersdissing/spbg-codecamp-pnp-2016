@@ -4,3 +4,15 @@ Snippet 1 - App Permission Request XML
    <AppPermissionRequests AllowAppOnlyPolicy="true">
      <AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web" Right="FullControl" />
    </AppPermissionRequests>
+   
+
+   Snippet 2 - Create Self Signed Certificate
+------------------------------------------
+
+.\Create-SelfSignedCertificate.ps1 -CommonName "PnPCert" -StartDate 2016-01-01 -EndDate 2018-12-31
+
+
+Snippet 3 - Get Certificate Details
+-----------------------------------
+
+.\Get-SelfSignedCertificateInformation.ps1 -CertPath "d:\spbg-codecamp-2016-08-16-master\02 - Authentication Manager\PnPCert.cer"
