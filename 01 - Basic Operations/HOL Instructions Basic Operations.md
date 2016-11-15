@@ -14,8 +14,7 @@ Plain CSOM example
 3. Run the code - CTRL-F5, start dev tools in browser (F12), go to network tab and click the button
 4. Right click on Controllers folder, Add, Controller..., MVC5 Controller - Empty, name it 'CsomController'
 6. Replace the code of CsomController with snippet 2
-7. Replace URL to your SPO site in the pasted code
-8. Run the code - CTRL-F5, click the button and check that list was created
+7. Run the code - CTRL-F5, click the button and check that list was created
 
 PnP example
 -----------
