@@ -15,24 +15,31 @@ namespace PnPAuthenticationManager
             // SharePoint Online - credentials
             //var username = "spo-user-name";
             //var password = GetSecureString("Password");
-            //clientContext = new AuthenticationManager().GetSharePointOnlineAuthenticatedContextTenant(siteUrl, username, password);
+            //clientContext = new AuthenticationManager()
+            //    .GetSharePointOnlineAuthenticatedContextTenant(siteUrl, username, password);
 
             // SharePont Online - interactive login
-            //clientContext = new AuthenticationManager().GetWebLoginClientContext(siteUrl);
+            //clientContext = new AuthenticationManager()
+            //    .GetWebLoginClientContext(siteUrl);
 
             // SharePoint Online - app only
             //var clientId = "sharepoint-add-in-client-id";
             //var clientSecret = GetString("Client Secret");
-            //clientContext = new AuthenticationManager().GetAppOnlyAuthenticatedContext(siteUrl, clientId, clientSecret);
+            //clientContext = new AuthenticationManager()
+            //    .GetAppOnlyAuthenticatedContext(siteUrl, clientId, clientSecret);
 
             // Azure AD - interactive
-            //var appId = "azure-ad-native-add-in-client-id";
-            //clientContext = new AuthenticationManager().GetAzureADNativeApplicationAuthenticatedContext(siteUrl, appId, "https://someurl.com");
+            //var clientId = "azure-ad-native-add-in-client-id";
+            //clientContext = new AuthenticationManager()
+            //    .GetAzureADNativeApplicationAuthenticatedContext(siteUrl, clientId, "https://someurl.com");
 
             // Azure AD - app only
-            //var appId = "azure-ad-web-add-in-client-id";
+            //var clientId = "azure-ad-web-add-in-client-id";
             //var pfxPassword = GetString("PFX password");
-            //clientContext = new AuthenticationManager().GetAzureADAppOnlyAuthenticatedContext(siteUrl, appId, "sometenant.onmicrosoft.com", @"d:\spbg-codecamp-2016-08-16-master\02 - Authentication Manager\PnPCert.pfx", pfxPassword);
+            //clientContext = new AuthenticationManager()
+            //    .GetAzureADAppOnlyAuthenticatedContext(siteUrl, clientId,
+            //        "sometenant.onmicrosoft.com",
+            //        @"d:\spbg-codecamp-2016-08-16-master\02 - Authentication Manager\PnPCert.pfx", pfxPassword);
 
             var web = clientContext.Web;
             clientContext.Load(web, w => w.Title);
