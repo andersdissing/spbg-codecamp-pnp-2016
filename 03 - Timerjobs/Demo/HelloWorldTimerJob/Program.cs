@@ -11,7 +11,7 @@ namespace HelloWorldTimerJob
         static void Main(string[] args)
         {
             var job = new HelloWorldJob();
-            job.UseOffice365Authentication("bernd@rickenberg.net", GetPassword());
+            job.UseOffice365Authentication("username", GetPassword());
             job.AddSite("https://rickenberg.sharepoint.com/codecamp2016");
             job.Run();
         }
