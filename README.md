@@ -10,6 +10,7 @@
   - PnP - PowerShell and Provisioning
 
 ## Kom igang:
+- Install Office Developer Tools: https://www.microsoft.com/web/handlers/WebPI.ashx/getinstaller/OfficeToolsForVS2013Update1
 - Download github repository. https://github.com/andersdissing/spbg-codecamp-2016-08-16/archive/master.zip 
 - Unblock ZIP filen (important!) og pak ud (helst i roden af et drev)
 - Opret et udvikler site på SharePoint Online
